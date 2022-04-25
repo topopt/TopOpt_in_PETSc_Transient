@@ -1,5 +1,5 @@
 # TopOpt_in_PETSc_Transient
-===============
+
 A 3D large-scale TRANSIENT topology optimization code using PETSc
 ===============
 
