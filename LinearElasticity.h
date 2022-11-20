@@ -7,7 +7,6 @@
 #include <petsc.h>
 #include <petsc/private/dmdaimpl.h>
 #include <MPIIO.h>
-#include <SOAR.h>
 #include <SOMMG.h>
 
 /*
